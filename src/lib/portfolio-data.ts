@@ -40,6 +40,7 @@ export const skills = {
 export const projects = [
   {
     title: "Prescripto - Full Stack Role-Based Healthcare Scheduling and Appointment System",
+    link: "https://github.com/NamishSharma44/Prescripto",
     period: "Oct 2025 - Nov 2025",
     summary:
       "Built a production-style healthcare scheduling platform for patients, doctors, and admins with secure auth, payments, and operational workflow automation.",
@@ -68,6 +69,7 @@ export const projects = [
   },
   {
     title: "RAG Document QA System - Intelligent Document Retrieval and Q-A Engine",
+    link: "https://github.com/NamishSharma44/Retrieval-Augmented-Generation",
     period: "Sept 2025 - Oct 2025",
     summary:
       "Engineered a retrieval-augmented document intelligence system that answers user queries with source-grounded responses over large, unstructured corpora.",
@@ -94,6 +96,7 @@ export const projects = [
   },
   {
     title: "GlobalStockPulse - AI Powered Stock Market Analyzer",
+    link: "https://github.com/NamishSharma44/GLOBALSTOCKPULSE",
     period: "Jun 2025 - Jul 2025",
     summary:
       "Built a full-stack market intelligence platform combining real-time financial data, technical analysis, and AI-assisted advisory signals.",
